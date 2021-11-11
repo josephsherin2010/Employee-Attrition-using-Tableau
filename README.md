@@ -1,1 +1,2 @@
-# Employee-Attrition-using-Tableau
+The project deals with the employee attrition in a company. The company uses the observational data to analyse and interpret departments in which highest attrition occurs. They would like to know which category of employees are more subjected to attrition. Moreover, the company also tries to figure out the reasons for attrition.
+Tools such as tableau prep and tableau desktop are used for analysis purpose.
